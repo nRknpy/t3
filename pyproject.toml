@@ -24,4 +24,4 @@ dependencies = [
 ]
 
 [tool.setuptools]
-packages = ["t3"]
+packages = ["t3", "t3.models"]
